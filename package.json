@@ -26,9 +26,6 @@
     "reporting",
     "crashlytics"
   ],
-  "peerDependencies": {
-    "@react-native-firebase/app": "git+https://git@github.com/lezinx/rnfirebase-fork-app"
-  },
   "devDependencies": {
     "genversion": "^2.1.1"
   },
